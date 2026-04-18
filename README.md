@@ -2,7 +2,7 @@
 
 Converts all PDF files in a folder to Markdown, using Microsoft's [markitdown](https://github.com/microsoft/markitdown).
 
-Created by [Stefana Andriason](https://github.com/stefanands) with [Claude Code](https://claude.ai/code) (Anthropic).
+Created by [Stefan Anderson](https://github.com/stefanands) with [Claude Code](https://claude.ai/code) (Anthropic).
 
 ---
 
