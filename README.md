@@ -11,7 +11,7 @@ Created by [Stefan Anderson](https://github.com/stefanands) with [Claude Code](h
 ### 1. Install markitdown
 
 ```bash
-pip install markitdown[all]
+pip3 install --upgrade markitdown
 ```
 
 ### 2. Install the Claude Code skill
